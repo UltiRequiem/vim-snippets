@@ -1,2 +1,2 @@
 # nvim-snippets
-# nvim-snippets
+My snippets
