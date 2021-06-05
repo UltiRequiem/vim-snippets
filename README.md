@@ -12,3 +12,7 @@ Plug 'UltiRequiem/vim-snippets'
 
 If you want more snippets you can check:
 https://github.com/honza/vim-snippets
+
+## License
+
+Copyright (c) UltiRequiem. Distributed under the MIT license.
